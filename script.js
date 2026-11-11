@@ -111,7 +111,7 @@ function go(){
 var W=[
 {t:"Beyond the Firewall: Why Healthcare AI Needs a Data Safe Haven",k:"UI/UX Case Study",y:"2026",d:"One or two sentences about A research-based perspective on healthcare data governance, responsible AI, and the infrastructure required to turn sensitive medical information into public value.",u:"https://platinum-mandrill-c22.notion.site/Beyond-the-Firewall-Why-Healthcare-AI-Needs-a-Data-Safe-Haven-407cf52970bd81d89abbfae2b135fb2c",c:"#c4552f",w:48,h:330},
 {t:"RuncitGo UX_UI Thesis Case Study",k:"Research",y:"2026",d:"A Hyperlocal Grocery Marketplace for Malaysian Neighbourhoods.",u:"https://drive.google.com/file/d/1ZVz6RfCwC5g54psB4ETTwktHoDXgjdFb/view?usp=sharing",c:"#2f5d8a",w:40,h:300},
-{t:"Is Access to Research Data Really a Subscription? A Global Comparison of Data Safe Havens",k:"Document",y:"2025",d:"Secure data handling for AI research.",u:"https://drive.google.com/file/d/19PcbBNfiY-ZtSwBDDWIM5BIukOKjVcqq/view?usp=sharing",c:"#d9a441",w:54,h:340,draft:true},
+{t:"Is Access to Research Data Really a Subscription? A Global Comparison of Data Safe Havens",k:"Document",y:"2025",d:"Secure data handling for AI research.",u:"https://drive.google.com/file/d/19PcbBNfiY-ZtSwBDDWIM5BIukOKjVcqq/view?usp=sharing",c:"#d9a441",w:54,h:340},
 {t:"What Could Malaysia Learn from Global Healthcare Data Safe Havens?",k:"Article",y:"2025",d:"Short description here.",u:"#",c:"#3f7a5f",w:42,h:310,draft:true},
 {t:"The Five Safes Framework Explained Through a Hospital AI Research Scenario",k:"Document",y:"2025",d:"Short description here.",u:"#",c:"#8d3f5c",w:50,h:325,draft:true},
 {t:"SungaiKita — A Community-Powered River Care Platform",k:"UI/UX Case Study",y:"2024",d:"Short description here.",u:"#",c:"#4a4a52",w:38,h:295,draft:true}
